@@ -6,7 +6,6 @@ I'm a Computer Science student at Deakin University with a focus on full-stack d
 * **Languages:** C#, C++, Python, JavaScript, TypeScript, SQL
 * **Frameworks & Libraries:** Django, FastAPI, Vue.js, Node.js, React Native
 * **Tools & Technologies:** AWS (EC2, VPC, RDS, SQS, S3 API Gateway, CloudWatch, IAM, ECS Fargate, DynamoDB), Kubernetes, Docker, Jenkins(CI/CD pipelines), Git/GitHub, PostgreSQL, Agile Frameworks, DevOps Lifecycles, Terraform, MongoDB, MQTT
-* **Spoken Languages:** English (Fluent), Arabic (Native)
 
 ## 📫 Lets Talk!
 
