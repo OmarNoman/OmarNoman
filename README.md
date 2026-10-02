@@ -12,5 +12,5 @@ I'm a Computer Science student at Deakin University with a focus on full-stack d
 
 
 * **GitHub:** [@OmarNoman](https://github.com/OmarNoman)
-* **LinkedIn:** [omamoman5](https://www.linkedin.com/in/omamoman5)
+* **LinkedIn:** [omamoman5](https://www.linkedin.com/in/omaroman5)
 * **Email:** omarrashadnoman@gmail.com
